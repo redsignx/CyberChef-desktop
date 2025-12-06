@@ -1,7 +1,7 @@
 {
   "package": {
     "productName": "CyberChef",
-    "version": "10.19.4"
+    "version": "10.19.4-beta.1"
   },
   "build": {
     "distDir": "../dist",
